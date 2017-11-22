@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">三国人物志</string>
+    <string name="hero_name">姓名</string>
+    <string name="hero_sex">性别</string>
+    <string name="hero_Year">生卒</string>
+    <string name="hero_place">古代籍贯</string>
+    <string name="hero_power">主效势力</string>
+    <string name="hero_event">相关事迹</string>
+    <string name="drawerOpen">DrawerOpen</string>
+    <string name="drawerClose">DrawerCloses</string>
+    <string name="firstLetter">首字字母</string>
+    <string name="searchName">姓名搜索</string>
+    <string name="hero_year">涉及年份</string>
+    <string name="sample">语句示例语句示例语句示例</string>
+    <string name="hero_img">头像</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="checked">保存</string>
+</resources>
